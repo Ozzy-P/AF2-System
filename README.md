@@ -10,3 +10,7 @@ AF2 - Weapons (DISCONTINUED)
 AF2 - DoorsInPlace: Run on startup, press hotkey indicated in script and repeat.
 
 AF2 - DIP (Experimental): Run on startup, press hotkey indicated in script and repeat.
+
+# Updates
+FA System is available at https://cacheddatasiterewritten.000webhostapp.com/.
+(Removed FA System website until futher notice.)
